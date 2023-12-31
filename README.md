@@ -1,6 +1,6 @@
 # 🎮 Game Top Down
 ## Nesse projeto eu desenvolvo minhas habilidades como desenvolvedora unity, é um projeto teste, sem uma funcionalidade ou história por trás, é apenas para fins didáticos.
-## 🔸 Aprendi até agora:
+##  Aprendi até agora:
 ## 🔸 Organização de arquivos e pastas, boas práticas.
 ## 🔸 Animator
 ## 🔸 Animation
